@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Nira Atelier | Handmade Jewellery",
+      "hasCanvas": false,
+      "bodyTextLen": 2696,
+      "bodyTextHash": "816ad24654109215aa6ce308ab8351eb2ee6d8b3be9d737eec20ecc190e89a29",
+      "bodyTextPrefix": "N Nira Atelier HOME COLLECTIONS ABOUT CUSTOM ORDERS CONTACT HAND",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Nira Atelier | Handmade Jewellery",
+      "hasCanvas": false,
+      "bodyTextLen": 2651,
+      "bodyTextHash": "d973718c659868895be7a2bc57a4f316ce49a3980916163b637f593252a6243d",
+      "bodyTextPrefix": "N Nira Atelier HANDCRAFTED IN INDIA Jewellery made slowly and wo",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
